@@ -22,8 +22,10 @@ public static void main(String[] args) {
         if((a < 0) && (b > 0)) {
             q = q + 1;
         }
-        System.out.println("q = " + q);
+        a=b;
+        
     }
+    System.out.println("q = " + q);
     scanner.close();
     
 }

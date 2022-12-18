@@ -10,7 +10,7 @@ public class Task2 {
     public static void main(String[] args) {
         int a; // текущее число
         int b; // последующее число
-        int sum = 0; // количество положительных чисел
+        int sum = 0; // сумма положительных чисел
         int n; // число элементов в последовательности
          Scanner scanner = new Scanner(System.in);
          n = scanner.nextInt();

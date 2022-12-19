@@ -1,10 +1,13 @@
-import java.util.Arrays;
 
+/*
+ * Найти сумму элементов, у которых последняя и предпоследняя цифры равны
+ */
+
+
+
+import java.util.Arrays;
 public class Task5 {
-    /**
-     * @param args
-     * @param sum
-     */
+    
     public static void main(String[] args) {
         String str;
         int sum = 0;
